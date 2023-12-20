@@ -3,7 +3,7 @@ This code ranked 1th in khuggle 2023 which held in kyunghee university
 
 this code based on https://stylegan-nada.github.io/ and https://github.com/rosinality/stylegan2-pytorch
 
-https://colab.research.google.com/drive/1yLDGg0ZxgXz8wCeez9xa74wNGWAC--F2?hl=ko
+[colab link]https://colab.research.google.com/drive/1yLDGg0ZxgXz8wCeez9xa74wNGWAC--F2?hl=ko
 
 you can find basecode in above colab link
 
